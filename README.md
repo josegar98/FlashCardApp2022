@@ -6,7 +6,7 @@ Add a question and stores it
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://i.imgur.com/D0M5eKA.gif" width=200><br>
+<img src="https://i.imgur.com/D0M5eKA.gif  https://i.imgur.com/GGbiKJq.gif" width=200><br>
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
